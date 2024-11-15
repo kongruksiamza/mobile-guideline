@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/kongruksiamza/ebook-for-education/blob/d90d1006f19214608b9e14d6fc8bda437d593fb5/assets/season-change.svg" width="300"/>
+  <img src="https://github.com/kongruksiamza/ebook-for-education/blob/d90d1006f19214608b9e14d6fc8bda437d593fb5/assets/loading.svg" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
